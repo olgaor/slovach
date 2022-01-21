@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slovach/static/css/main.2446e534.css",
+    "main.js": "/slovach/static/js/main.e5d19c44.js",
+    "index.html": "/slovach/index.html",
+    "main.2446e534.css.map": "/slovach/static/css/main.2446e534.css.map",
+    "main.e5d19c44.js.map": "/slovach/static/js/main.e5d19c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2446e534.css",
+    "static/js/main.e5d19c44.js"
+  ]
+}
